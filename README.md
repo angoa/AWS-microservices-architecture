@@ -1,3 +1,3 @@
 # AWS-microservices-architecture
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/angoa/AWS-microservices-architecture/a.svg)
