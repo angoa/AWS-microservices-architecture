@@ -1,4 +1,4 @@
-# AWS-microservices-architecture
+# AWS microservices architecture
 
 [Microservices and cloud based architecture](../blob/master/img/microservices_and_cloud_based_architecture.pdf)
 
