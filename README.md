@@ -1,3 +1,3 @@
 # AWS-microservices-architecture
 
-![Bilby Stampede](http://example.com/images/logo.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
