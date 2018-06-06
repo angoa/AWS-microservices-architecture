@@ -1,5 +1,7 @@
 # AWS-microservices-architecture
 
+https://github.com/angoa/AWS-microservices-architecture/blob/master/MS-AWS.md
+
 ## A simple architecture
 
 ![A simple architecture on AWS](https://github.com/angoa/AWS-microservices-architecture/blob/master/img/ms-simple.svg)
