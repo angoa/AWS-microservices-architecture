@@ -1,3 +1,3 @@
 # AWS-microservices-architecture
 
-![Image of Yaktocat](https://github.com/angoa/AWS-microservices-architecture/a.svg)
+![Top level](https://github.com/angoa/AWS-microservices-architecture/blob/master/a.svg)
