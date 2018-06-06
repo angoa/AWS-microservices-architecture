@@ -1,8 +1,8 @@
 # AWS microservices architecture
 
-[Microservices and cloud based architecture](../blob/master/img/microservices_and_cloud_based_architecture.pdf)
+[Microservices and cloud based architecture](https://github.com/angoa/AWS-microservices-architecture/blob/master/img/microservices_and_cloud_based_architecture.pdf)
 
-[Microservices on AWS](../blob/master/MS-AWS.md)
+[Microservices on AWS](https://github.com/angoa/AWS-microservices-architecture/blob/master/MS-AWS.md)
 
 ## A simple architecture
 
